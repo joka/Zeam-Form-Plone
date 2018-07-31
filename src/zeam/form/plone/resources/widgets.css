@@ -53,7 +53,7 @@
 }
 
 .zeam-form button.field-collection-move-up {
-  background-image: url(++resource++zeam.form.plone.resources/arrow_up.png);
+  background-image: url("++plone++zeam.form.plone/arrow_up.png");
   background-color: transparent;
   height: 16px;
   width: 16px;
@@ -62,7 +62,7 @@
 }
 
 .zeam-form button.field-collection-move-down {
-  background-image: url(++resource++zeam.form.plone.resources/arrow_down.png);
+  background-image: url("++plone++zeam.form.plone/arrow_down.png");
   background-color: transparent;
   height: 16px;
   width: 16px;
@@ -95,7 +95,7 @@
 }
 
 .zeam-form button.field-plone-multi-select-add {
-  background-image: url(++resource++zeam.form.plone.resources/arrow_left.png);
+  background-image: url("++plone++zeam.form.plone/arrow_left.png");
   background-color: transparent;
   height: 16px;
   width: 16px;
@@ -103,7 +103,7 @@
 }
 
 .zeam-form button.field-plone-multi-select-remove {
-  background-image: url(++resource++zeam.form.plone.resources/arrow_right.png);
+  background-image: url("++plone++zeam.form.plone/arrow_right.png");
   background-color: transparent;
   height: 16px;
   width: 16px;

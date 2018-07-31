@@ -12,10 +12,6 @@ from zeam.form.ztk.interfaces import ICollectionField
 from zope.interface import Interface
 
 
-class Resources(grok.DirectoryResource):
-    grok.path('resources')
-    grok.name('zeam.form.plone.resources')
-
 
 class PloneFieldWidget(FieldWidget, Acquisition.Explicit):
     grok.baseclass()
