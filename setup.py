@@ -39,4 +39,8 @@ setup(name='zeam.form.plone',
           'zope.i18nmessageid',
           'zope.interface',
           ],
+      entry_points="""
+      [z3c.autoinclude.plugin]
+      target = plone
+      """
       )
