@@ -1,6 +1,12 @@
 Changes
 =======
 
+1.2 (unreleased)
+----------------
+
+* add z3c.autoinclude entry point [joka]
+
+
 1.1 (2017-06-22)
 ----------------
 
